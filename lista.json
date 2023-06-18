@@ -1,0 +1,212 @@
+[
+    {
+      "id": "Mercadona",
+      "direccion": "Calle almendrales, 25",
+      "geolocalizacion": ["39.953578, -3.506510"],
+      "lugar": "Ocaña",
+      "horarioApertura": "Lunes a Sábado de 9 - a 21h",
+      "productos": [
+        {
+          "nombre": "leche entera",
+          "seccion": "lácteos",
+          "descripcion": "leche entera Hacendado",
+          "origen": "España",
+          "oferta": false,
+          "pvp": 1.5,
+          "formato": "1 litro",
+          "habitual": true,
+          "adquirido": true
+        },
+        {
+          "nombre": "atún",
+          "seccion": "pescadería",
+          "descripcion": "atun sin cabeza",
+          "origen": "galicia",
+          "oferta": true,
+          "TiempoOferta": ["24/05/23", "28/7/23"],
+          "pvp": 3.75,
+          "formato": "200 grs.",
+          "habitual": false,
+          "adquirido": true
+        },
+        {
+          "nombre": "huevos",
+          "seccion": "Congelado",
+          "descripcion": "huevos tamaño L",
+          "origen": "España",
+          "oferta": false,
+          "pvp": 1.99,
+          "formato": "24 huevos",
+          "habitual": true,
+          "adquirido": true
+        },
+        {
+          "nombre": "Patata",
+          "seccion": "frutería",
+          "descripcion": "Patatas para cocinar",
+          "origen": "Murcia",
+          "oferta": true,
+          "TiempoOferta": ["24/07/23", "2/07/23"],
+          "pvp": 1.69,
+          "pvpRebajado": 0.95,
+          "formato": "1 kg.",
+          "habitual": true,
+          "adquirido": false
+        },
+        {
+          
+          "nombre": "queso fresco",
+          "seccion": "lácteos",
+          "descripcion": "queso fresco entrepinares",
+          "origen": "España",
+          "oferta": false,
+          "pvp": 4.55,
+          "formato": "500 grs.",
+          "habitual": false,
+          "adquirido": true
+        }
+      ]
+    }
+  ],
+ [
+    {
+      "id": "Supeco",
+      "direccion": "Calle Valeras, 37",
+      "geolocalizacion": ["23.10213, -3.68546"],
+      "lugar": "Aranjuez",
+      "horarioApertura": "Lunes a Sábado de 9 - 21:15h",
+      "productos": [
+        {
+          "nombre": "yogur griego",
+          "seccion": "lácteos",
+          "descripcion": "yogur natural",
+          "origen": "grecia",
+          "oferta": true,
+          "TiempoOferta": "1/05/21",
+          "pvp": 1.65,
+          "pvpRebajado": 1.4,
+          "formato": "pack de 6 x 125 grs.",
+          "habitual": true,
+          "adquirido": true
+        },
+        {
+          
+          "nombre": "pan de centeno",
+          "seccion": "panadería",
+          "descripcion": "pan de centeno formato ahorro",
+          "origen": "Alemania",
+          "oferta": false,
+          "pvp": 2.75,
+          "formato": "1 kg.",
+          "habitual": true,
+          "adquirido": true
+        },
+        {
+          "nombre": "aceite de oliva",
+          "seccion": "Aceites",
+          "descripcion": "aceite de oliva virgen extra coosur",
+          "origen": "España",
+          "oferta": false,
+          "pvp": 15,
+          "formato": "5 L.",
+          "habitual": true,
+          "adquirido": false
+        },
+        {
+          
+          "nombre": "brócoli",
+          "seccion": "frutería",
+          "descripcion": "brócoli manojo huerta",
+          "origen": "Portugal",
+          "oferta": false,
+          "pvp": 0.85,
+          "formato": "1 kg.",
+          "habitual": false,
+          "adquirido": true
+        },
+        {
+          "nombre": "garbanzos",
+          "seccion": "conservas",
+          "descripcion": "garbanzos cocidos conserva",
+          "origen": "España",
+          "oferta": false,
+          "pvp": 1.78,
+          "formato": "500 grs.",
+          "habitual": true,
+          "adquirido": true
+        }
+      ]
+    }
+  ],
+   [
+    {
+      "id": "E.lecler",
+      "direccion": "Av, el deleite",
+      "geolocalizacion": ["40.024360, -3.6185812"],
+      "lugar": "Aranjuez",
+      "horarioApertura": "Lunes a Sábado de 9:30 - 22h",
+      "productos": [
+        {
+          "nombre": "cerveza",
+          "seccion": "bebidas y refrescos",
+          "descripcion": "cerveza reserva pilsen Alhambra",
+          "origen": "España",
+          "oferta": true,
+          "TiempoOferta": ["1/03/21", "1/04/21"],
+          "pvp": 8.55,
+          "pvpRebajado": 6.4,
+          "formato": "pack de 6 x 33 cl.",
+          "habitual": false,
+          "adquirido": false
+        },
+        {
+          "nombre": "calamar",
+          "seccion": "congelados",
+          "descripcion": "calamar troceado congelado",
+          "origen": "Marruecos",
+          "oferta": true,
+          "TiempoOferta": ["27/03/21", "30/03/21"],
+          "pvp": 5.35,
+          "pvpRebajado": 3.95,
+          "formato": "1 kg.",
+          "habitual": true,
+          "adquirido": true
+        },
+        {
+          "nombre": "arroz basmati",
+          "seccion": "pastas y arroz",
+          "descripcion": "arroz basmati jazmín",
+          "origen": "China",
+          "oferta": false,
+          "pvp": 2.3,
+          "formato": "1 kg.",
+          "habitual": false,
+          "adquirido": false
+        },
+        {
+          "nombre": "pimienta molida",
+          "seccion": "salsas y condimentos",
+          "descripcion": "pimienta mezcla molida molinillo",
+          "origen": "España",
+          "oferta": false,
+          "pvp": 0.65,
+          "formato": "45 grs.",
+          "habitual": true,
+          "adquirido": false
+        },
+        {
+          "nombre": "chocolate blanco",
+          "seccion": "dulces",
+          "descripcion": "chocolate blanco",
+          "origen": "Alemania",
+          "oferta": true,
+          "TiempoOferta": ["27/03/23", "30/03/24"],
+          "pvp": 1.75,
+          "pvpRebajado": 0.99 ,
+          "formato": "300 grs.",
+          "habitual": true,
+          "adquirido": true
+        }
+      ]
+    }
+  ]
